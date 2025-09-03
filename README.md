@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hello. I am Ruslan Khasanov. 👋</h1>
+<h1 align="center">Hello. I am Ihor. 👋</h1>
 
 ###
 
@@ -18,7 +18,13 @@
 
 ###
 
-<p align="left">AI/ML & Full Stack Developer with 5+ years of experience building intelligent systems and scalable web applications. Passionate about leveraging cutting-edge technologies to solve complex problems and create impactful solutions.</p>
+<p align="left">I help businesses build intelligent web applications and AI solutions that improve efficiency, engage users, and deliver measurable results. As a Full-Stack Developer with deep expertise in AI, LLMs, and automation, I bridge the gap between complex technology and practical business impact.</p>
+
+###
+
+<p align="left">
+Instead of just building chatbots, I create AI assistants powered by LLMs + RAG that deliver accurate, context-aware answers - helping companies reduce support costs, streamline operations, and enhance customer experiences. My full-stack background ensures these AI systems integrate seamlessly into modern, scalable applications.
+</p>
 
 ###
 
@@ -26,24 +32,15 @@
 
 ###
 
-<p align="left">• Design and implement end-to-end AI solutions from data collection to model deployment<br>• Develop full stack applications with integrated machine learning capabilities<br>• Build and optimize neural networks, deep learning models, and traditional ML algorithms<br>• Create scalable backend systems and intuitive frontend interfaces<br>• Implement MLOps pipelines for continuous integration and deployment of models<br>• Design efficient data processing pipelines and feature engineering workflows<br>• Deploy models in production environments with monitoring and maintenance</p>
+<p align="left">✅ AI Chatbot Development – Custom assistants built with GPT, Claude, or open-source LLMs (Llama, Mistral) to handle real customer questions.<br>✅ RAG Implementation – Connect your AI to private data (docs, sites, databases) for knowledge-grounded, reliable answers.<br>✅ AI Automation & Workflows – Automate repetitive processes with n8n and AI triggers, saving time and costs.<br>✅ Full-Stack Web Development – Beautiful, high-performance apps (React, Vue, Svelte + TailwindCSS frontend, Python/Node/Laravel backend).</p>
 
 ###
 
-<h4 align="left">Current Focus:</h4>
+<p align="left">💡 My approach is simple: clean code, clear communication, and solutions that go beyond expectations. I’ve worked with startups, SaaS platforms, and small businesses to integrate AI into their workflows - and I’m ready to do the same for you. </p>
 
 ###
 
-<p align="left">🧠 Working on NLP and computer vision projects<br>🤖 Developing autonomous systems with reinforcement learning<br>☁️ Building cloud-native AI solutions<br>📊 Exploring generative AI and LLM applications</p>
-
-
-###
-
-<h4 align="left">Let's Connect:</h4>
-
-###
-
-<p align="left">📫 Open to collaborations on AI research, ML projects, or full stack development<br>💡 Always interested in discussing innovative ideas at the intersection of AI and web technologies</p>
+<p align="left">📩 If you are looking for a reliable developer to turn AI into real business value, let's connect and discuss your project.</p>
 
 ###
 
@@ -91,9 +88,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datavizdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datavizdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=datavizdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ihor425-ai&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihor425-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ihor425-ai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
